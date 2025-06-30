@@ -22,3 +22,11 @@
   margin-top: 20px;
   text-align: center;
 }
+
+body {
+  background: url('../assets/booooca.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  min-height: 100vh;
+}
+
